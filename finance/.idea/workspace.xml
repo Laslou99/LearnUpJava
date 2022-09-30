@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc29cd72-d9ee-479b-bd3f-8a1ffddbd6ed" name="Changes" comment="" />
+    <list default="true" id="5dde5d81-6207-4975-be98-9d1145d4a107" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FUL4XTQVyKvwAnvzN1VlbFl8ND" />
+  <component name="ProjectId" id="2FULwomWliLfDjaGeDLBcFNASgk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,14 +32,34 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finance.Main" />
+      <module name="finance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc29cd72-d9ee-479b-bd3f-8a1ffddbd6ed" name="Changes" comment="" />
-      <created>1664541525537</created>
+      <changelist id="5dde5d81-6207-4975-be98-9d1145d4a107" name="Changes" comment="" />
+      <created>1664541957140</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664541525537</updated>
+      <updated>1664541957140</updated>
     </task>
     <servers />
   </component>
